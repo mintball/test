@@ -1,4 +1,4 @@
-#program calculator so function + - * /
+#program calculator at function + - * /
 
 def add(a,b):
     print("add: ",a+b)
